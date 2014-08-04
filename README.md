@@ -3,6 +3,8 @@ wp-ezdevleoper-ref-doc-hosting
 
 A collection of knowledge as it relates to WordPress hosting.
 
+##Note: This is a simple "dump" at the moment. 
+
 ===========================================
 ###From FB Group AWP (early Aug 2015)
 
