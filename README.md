@@ -6,6 +6,14 @@ A collection of knowledge as it relates to WordPress hosting.
 ##Note: This is a simple "dump" at the moment. 
 
 ===========================================
+
+#### Sept 2015: From Twitter
+
+**WordCamp Europe, @WCEurope, https://twitter.com/WCEurope**
+
+A great roundup of sites using WP to deliver content better: http://newyorker.com , http://qz.com , http://fivethirtyeight.com  #WCEU
+
+
 ###From FB Group AWP (early Aug 2015)
 
 Popular Webhosts in AWP
