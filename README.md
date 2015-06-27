@@ -3,9 +3,19 @@ wp-ezdeveloper-ref-doc-hosting
 
 A collection of knowledge as it relates to WordPress hosting.
 
-##Note: This is a simple "dump" at the moment. 
+Note: This is a simple "dump" at the moment. 
 
-===========================================
+
+
+---
+
+**"What this WPezDevelope Ref Doc stuff all about?"**
+
+https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
+
+---
+
+
 
 #### Sept 2015: From Twitter
 
